@@ -7,7 +7,7 @@ This mod adds long-range antennas using stock assets to facilitate communication
 - The RA-2500 weighs 2.6 tons and has a range rating of 2.5 Tm. It has a 2.5m bottom node and fits in a 7.5m fairing (i.e. it's a 2x rescaled RA-100.)
 - The RA-12500 weighs 5.2 tons and has a range rating of 12.5 Tm. It has a 2.5m bottom node and fits in a 10m fairing (i.e. its a 4x rescaled RA-15.)
 
-As an incidental benefit, these antennas offer better transmission performance than the stock relay antennas, particularly in terms of ElectricCharge required per Mit tranmitted.
+As an incidental benefit, these antennas offer better transmission performance than the stock relay antennas, particularly in terms of ElectricCharge consumed per Mit transmitted.
 
 The enormous size of these antennas demands an unconventional approach to deployment. Possibilities include:
 
