@@ -27,7 +27,7 @@ As a bonus, I've included a half-scale version of the RA-2 antenna that has the 
 
 ## Installation & Requirements
 
-To install, copy the files to your GameData folder.
+To install, copy the ExtendedAntennaProgression folder to your GameData folder. The optional files in the Extras folder may be installed in the same way.
 
 This mod requires ModuleManager (not included.) Custom Barn Kit is required for the extended tracking station progression, but otherwise optional.
 
